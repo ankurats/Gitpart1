@@ -1,3 +1,3 @@
-Hi 
+Hello Infogainers
 
-Hello
+Welcome in GIT training !
